@@ -24,6 +24,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" />
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions"/>
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" />
   </ItemGroup>
 
   <ItemGroup>
